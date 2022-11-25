@@ -1,0 +1,7 @@
+fastapi==0.85.0
+googletrans==3.1.0a0
+inflect==6.0.0
+uvicorn==0.18.3
+uvloop
+httptools
+gunicorn
